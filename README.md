@@ -1,0 +1,1 @@
+This repository is dedicated to enhancing problem-solving skills through Java programming. It serves as a platform where various problems are tackled, and their solutions are implemented using Java programming language
